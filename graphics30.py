@@ -14,3 +14,4 @@ for i in range(100):
         rt(20)
         rt(60)
     rt(120)    
+done()    
