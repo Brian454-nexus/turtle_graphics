@@ -9,6 +9,8 @@ This project uses Python's built-in `turtle` module to draw shapes, patterns, or
 - Draws turtle-like graphics
 - Customizable colors and sizes
 - Simple and easy-to-understand code
+- Dynamic patterns with varying shapes and pen sizes
+- Infinite drawing until manually stopped
 
 ## Requirements
 - Python 3.x installed
@@ -17,4 +19,5 @@ This project uses Python's built-in `turtle` module to draw shapes, patterns, or
 ## How to Run
 1. Clone this repository:
 
+```sh
 git clone https://github.com/Brian454-nexus/turtle_graphics
